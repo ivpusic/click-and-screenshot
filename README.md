@@ -5,7 +5,7 @@ Python script for performing mouse click (from Python) followed by screenshot (f
 
 ### How to run?
 
-First you need to install wxPython for you distro. If you run (for example) Fedora 19 you can use:
+First you need to install wxPython for you distro. If you use (for example) Fedora 19 you can use:
 ```Bash
 yum -y install wxPython
 ```
