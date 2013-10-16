@@ -1,0 +1,4 @@
+PyUserInput==0.1.8
+python-xlib==0.15rc1
+wsgiref==0.1.2
+wx==1.0.0
